@@ -1,0 +1,6 @@
+C:\Csharp\Hospital_Management\Hospital_Management_Entity\bin\Debug\Hospital_Management_Entity.dll
+C:\Csharp\Hospital_Management\Hospital_Management_Entity\bin\Debug\Hospital_Management_Entity.pdb
+C:\Csharp\Hospital_Management\Hospital_Management_Entity\obj\Debug\Hospital_Management_Entity.csproj.AssemblyReference.cache
+C:\Csharp\Hospital_Management\Hospital_Management_Entity\obj\Debug\Hospital_Management_Entity.csproj.CoreCompileInputs.cache
+C:\Csharp\Hospital_Management\Hospital_Management_Entity\obj\Debug\Hospital_Management_Entity.dll
+C:\Csharp\Hospital_Management\Hospital_Management_Entity\obj\Debug\Hospital_Management_Entity.pdb

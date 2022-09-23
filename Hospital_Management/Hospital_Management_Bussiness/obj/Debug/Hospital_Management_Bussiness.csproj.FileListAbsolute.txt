@@ -1,0 +1,11 @@
+C:\Csharp\Hospital_Management\Hospital_Management_Bussiness\bin\Debug\Hospital_Management_Bussiness.dll
+C:\Csharp\Hospital_Management\Hospital_Management_Bussiness\bin\Debug\Hospital_Management_Bussiness.pdb
+C:\Csharp\Hospital_Management\Hospital_Management_Bussiness\bin\Debug\Hospital_Management_Data.dll
+C:\Csharp\Hospital_Management\Hospital_Management_Bussiness\bin\Debug\Hospital_Management_Entity.dll
+C:\Csharp\Hospital_Management\Hospital_Management_Bussiness\bin\Debug\Hospital_Management_Data.pdb
+C:\Csharp\Hospital_Management\Hospital_Management_Bussiness\bin\Debug\Hospital_Management_Entity.pdb
+C:\Csharp\Hospital_Management\Hospital_Management_Bussiness\obj\Debug\Hospital_Management_Bussiness.csproj.AssemblyReference.cache
+C:\Csharp\Hospital_Management\Hospital_Management_Bussiness\obj\Debug\Hospital_Management_Bussiness.csproj.CoreCompileInputs.cache
+C:\Csharp\Hospital_Management\Hospital_Management_Bussiness\obj\Debug\Hospital_Management_Bussiness.csproj.CopyComplete
+C:\Csharp\Hospital_Management\Hospital_Management_Bussiness\obj\Debug\Hospital_Management_Bussiness.dll
+C:\Csharp\Hospital_Management\Hospital_Management_Bussiness\obj\Debug\Hospital_Management_Bussiness.pdb

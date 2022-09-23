@@ -1,0 +1,17 @@
+C:\Csharp\Hospital_Management\Hospital_Management\obj\Debug\Hospital_Management.csproj.AssemblyReference.cache
+C:\Csharp\Hospital_Management\Hospital_Management\obj\Debug\Hospital_Management.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\Hospital_Management\Hospital_Management\obj\Debug\Hospital_Management.csproj.CoreCompileInputs.cache
+C:\Csharp\Hospital_Management\Hospital_Management\bin\Debug\Hospital_Management.exe.config
+C:\Csharp\Hospital_Management\Hospital_Management\bin\Debug\Hospital_Management.exe
+C:\Csharp\Hospital_Management\Hospital_Management\bin\Debug\Hospital_Management.pdb
+C:\Csharp\Hospital_Management\Hospital_Management\bin\Debug\Hospital_Management_Presentation.dll
+C:\Csharp\Hospital_Management\Hospital_Management\bin\Debug\Hospital_Management_Bussiness.dll
+C:\Csharp\Hospital_Management\Hospital_Management\bin\Debug\Hospital_Management_Data.dll
+C:\Csharp\Hospital_Management\Hospital_Management\bin\Debug\Hospital_Management_Entity.dll
+C:\Csharp\Hospital_Management\Hospital_Management\bin\Debug\Hospital_Management_Presentation.pdb
+C:\Csharp\Hospital_Management\Hospital_Management\bin\Debug\Hospital_Management_Bussiness.pdb
+C:\Csharp\Hospital_Management\Hospital_Management\bin\Debug\Hospital_Management_Data.pdb
+C:\Csharp\Hospital_Management\Hospital_Management\bin\Debug\Hospital_Management_Entity.pdb
+C:\Csharp\Hospital_Management\Hospital_Management\obj\Debug\Hospital_Management.csproj.CopyComplete
+C:\Csharp\Hospital_Management\Hospital_Management\obj\Debug\Hospital_Management.exe
+C:\Csharp\Hospital_Management\Hospital_Management\obj\Debug\Hospital_Management.pdb
